@@ -1,5 +1,7 @@
 import { Inter } from "next/font/google";
-import "./globals.css";
+import "./globals.scss";
+import Navbar from "@/components/navbar/Navbar";
+import Footer from "@/components/footer/Footer";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -9,9 +11,14 @@ export const metadata = {
 };
 
 export default function RootLayout({ children }) {
+
   return (
-    <html lang="en">
-      <body className={inter.className}>{children}</body>
+    <html lang="en" className="[&_*::-webkit-scrollbar-track]:bg-transparent [&_*::-webkit-scrollbar-track]:rounded-full [&_*::-webkit-scrollbar]:size-1 [&_*::-webkit-scrollbar]:bg-transparent [&_*::-webkit-scrollbar-thumb]:rounded-full [&_*::-webkit-scrollbar-thumb]:bg-theme1/50 dark:[&_*::-webkit-scrollbar-thumb]:bg-white/20" dir="ltr">
+      <body className={`dark:bg-theme2 dark:text-gray-200 ${inter.className}`}>
+        <Navbar />
+        {children}
+        <Footer />
+      </body>
     </html>
   );
 }

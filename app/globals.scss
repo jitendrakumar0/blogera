@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer components {
+    .btn-theme1 {
+        @apply text-sm md:py-4 py-3 md:px-6 px-5 max-md:font-semibold rounded-lg rounded-br-none flex items-center gap-2 transition-all bg-theme1/5 dark:bg-white/5 bg-blend-normal backdrop-blur-[2px] ring-1 ring-theme1/5 dark:ring-white/10 text-white before:absolute md:before:inset-1 before:inset-[2px] before:-z-[1] before:bg-gradient-to-b before:from-theme1 before:via-theme1 before:to-theme1 before:transition-all before:duration-300 before:[transition-timing-function:cubic-bezier(.4,0,.2,1)] before:outline-1 before:outline before:outline-white/20 before:-outline-offset-2 before:rounded-lg before:rounded-br-none md:hover:before:shadow-xl md:hover:before:shadow-black/20 dark:md:hover:before:shadow-white/20 md:hover:before:bg-gradient-to-b md:hover:before:from-theme1/80 md:hover:before:via-theme1/90 md:hover:before:to-theme1;
+    }
+    .btn-outline-theme1 {
+        @apply text-sm md:py-4 py-3 md:px-6 px-5 max-md:font-semibold rounded-lg rounded-br-none flex items-center gap-2 transition-all bg-theme1/5 dark:bg-white/5 bg-blend-normal backdrop-blur-[2px] ring-1 ring-theme1/5 dark:ring-white/10 text-theme1 dark:text-white before:absolute md:before:inset-1 before:inset-[2px] before:-z-[1] before:bg-white dark:before:bg-theme1/0 before:transition-all before:duration-300 before:[transition-timing-function:cubic-bezier(.4,0,.2,1)] before:outline-2 before:outline before:outline-theme1 dark:before:outline-white before:-outline-offset-2 before:rounded-lg before:rounded-br-none md:hover:before:shadow-xl md:hover:before:shadow-black/20 dark:md:hover:before:shadow-white/20 md:hover:before:bg-theme1/5 dark:md:hover:before:bg-white/5;
+    }
+    .skeleton-text {
+        @apply text-transparent bg-gray-100 dark:bg-gray-800 md:rounded-xl rounded-lg before:hidden after:hidden shadow-none border-none pointer-events-none cursor-default;
+    }
+}

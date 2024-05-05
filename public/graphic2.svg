@@ -1,0 +1,57 @@
+<svg width="240" height="186" viewBox="0 0 240 186" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_839_256)">
+<rect opacity="0.3" x="192" y="-4" width="48" height="49" fill="white"/>
+<rect opacity="0.4" x="48" width="48" height="47" fill="white"/>
+<path opacity="0.3" d="M48 0H96V47L48 0Z" fill="white"/>
+<path opacity="0.3" d="M96 0H144V47L96 0Z" fill="white"/>
+<rect opacity="0.3" width="48" height="47" fill="white"/>
+<rect opacity="0.3" width="26" height="47" fill="white"/>
+<circle opacity="0.3" cx="23.5" cy="23.5" r="23.5" fill="white"/>
+<rect opacity="0.3" x="192" y="92" width="48" height="47" fill="white"/>
+<path opacity="0.3" d="M240 139H192V92L240 139Z" fill="white"/>
+<circle opacity="0.3" cx="216.5" cy="115.5" r="23.5" fill="white"/>
+<circle opacity="0.3" cx="70.5" cy="23.5" r="23.5" fill="white"/>
+<rect opacity="0.4" x="144" y="93" width="48" height="47" fill="white"/>
+<path opacity="0.3" d="M144 93H192V140L144 93Z" fill="white"/>
+<circle opacity="0.3" cx="168.5" cy="116.5" r="23.5" fill="white"/>
+<rect opacity="0.3" x="192" y="139" width="48" height="47" fill="white"/>
+<rect opacity="0.3" x="192" y="139" width="26" height="47" fill="white"/>
+<circle opacity="0.3" cx="216.5" cy="162.5" r="23.5" fill="white"/>
+<circle opacity="0.3" cx="120" cy="24" r="13" fill="white"/>
+<rect opacity="0.3" x="96" width="48" height="47" fill="white"/>
+<circle opacity="0.3" cx="23.5" cy="23.5" r="13.5" fill="white"/>
+<path opacity="0.3" d="M144 116.999C134.808 116.999 125.705 118.81 117.212 122.328C108.719 125.846 101.003 131.002 94.5026 137.502C88.0025 144.002 82.8463 151.719 79.3285 160.212C75.8106 168.705 74 177.807 74 187L144 187V116.999Z" fill="white"/>
+<rect opacity="0.5" x="51" y="50" width="93" height="3" fill="white"/>
+<rect opacity="0.5" x="51" y="56" width="93" height="3" fill="white"/>
+<rect opacity="0.5" x="51" y="62" width="93" height="3" fill="white"/>
+<rect opacity="0.5" x="51" y="68" width="93" height="3" fill="white"/>
+<rect opacity="0.5" x="51" y="74" width="93" height="3" fill="white"/>
+<rect opacity="0.5" x="51" y="80" width="93" height="3" fill="white"/>
+<rect opacity="0.5" x="51" y="86" width="93" height="3" fill="white"/>
+<rect opacity="0.3" x="144" y="139" width="48" height="47" fill="white"/>
+<path opacity="0.3" d="M144 186H192V139L144 186Z" fill="white"/>
+<rect opacity="0.5" x="144" y="141" width="48" height="3" fill="white"/>
+<rect opacity="0.5" x="144" y="147" width="48" height="3" fill="white"/>
+<rect opacity="0.5" x="144" y="153" width="48" height="3" fill="white"/>
+<rect opacity="0.5" x="144" y="159" width="48" height="3" fill="white"/>
+<rect opacity="0.5" x="144" y="165" width="48" height="3" fill="white"/>
+<rect opacity="0.5" x="144" y="171" width="48" height="3" fill="white"/>
+<rect opacity="0.5" x="144" y="177" width="48" height="3" fill="white"/>
+<rect opacity="0.5" x="144" y="183" width="48" height="3" fill="white"/>
+<rect opacity="0.3" x="192" y="45" width="48" height="47" fill="white"/>
+<path opacity="0.3" d="M192 92H240V45L192 92Z" fill="white"/>
+<rect opacity="0.5" x="192" y="47" width="48" height="3" fill="white"/>
+<rect opacity="0.5" x="192" y="53" width="48" height="3" fill="white"/>
+<rect opacity="0.5" x="192" y="59" width="48" height="3" fill="white"/>
+<rect opacity="0.5" x="192" y="65" width="48" height="3" fill="white"/>
+<rect opacity="0.5" x="192" y="71" width="48" height="3" fill="white"/>
+<rect opacity="0.5" x="192" y="77" width="48" height="3" fill="white"/>
+<rect opacity="0.5" x="192" y="83" width="48" height="3" fill="white"/>
+<rect opacity="0.5" x="192" y="89" width="48" height="3" fill="white"/>
+</g>
+<defs>
+<clipPath id="clip0_839_256">
+<rect width="240" height="186" fill="white"/>
+</clipPath>
+</defs>
+</svg>
